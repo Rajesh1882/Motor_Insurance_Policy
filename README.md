@@ -40,3 +40,9 @@ This project demonstrates strong use of:
    ```sql
    SOURCE motor_insurance_policy.sql;
 
+
+## 👨‍💻 Author
+**Rajeshwaran**  
+- [GitHub](https://github.com/Rajesh1882)  
+- [LinkedIn](https://www.linkedin.com/in/rajeshwaran-k01/)  
+
