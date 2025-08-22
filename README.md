@@ -1,54 +1,42 @@
-Motor Insurance Policy Management System
+🚗 Motor Insurance Policy Management System
 
-Project Overview
+📌 Project Overview
+The **Motor Insurance Policy Management System** is a database-driven application designed using **MySQL**.  
+It helps manage vehicles, customers, insurance policies, and premium details efficiently.  
 
-The Motor Insurance Policy Management System is a database-driven application designed using MySQL.
-It helps manage vehicles, customers, insurance policies, and premium details efficiently.
-The project demonstrates strong use of DDL, DML, Joins, Grouping, Constraints, Sub-Queries, Stored Procedures, and Functions.
+This project demonstrates strong use of:  
+- DDL & DML  
+- Joins & Grouping  
+- Constraints  
+- Sub-Queries  
+- Stored Procedures & Functions  
 
-Files in Repository
+---
 
-motor_insurance_policy.sql → Database schema (tables, constraints, relationships).
+🗂️ Files in Repository
+- **motor_insurance_policy.sql** → Database schema (tables, constraints, relationships)  
+- **my_project_sql_query.sql** → SQL queries (CRUD operations, analytical queries, reports)  
 
-my_project_sql_query.sql → SQL queries (CRUD operations, analytical queries, reports).
+---
 
-Features
+✨ Features
+- Manage policyholder details (customers, vehicles)  
+- Track **active, expired, and pending** policies  
+- Store and calculate **premium details**  
+- Identify **highest premium policies**  
+- Analytical queries for **reporting and decision making**  
 
-Manage policyholder details (customers, vehicles).
+---
 
-Track active, expired, and pending policies.
+## 🛠️ Technologies Used
+- **Database:** MySQL  
+- **Concepts:** DDL, DML, Joins, Grouping, Subqueries, Stored Procedures  
 
-Store and calculate premium details.
+---
 
-Identify highest premium policies.
+🚀 How to Run
+1. Install MySQL Server on your system  
+2. Import the schema file:  
+   ```sql
+   SOURCE motor_insurance_policy.sql;
 
-Supports analytical queries for reporting and decision making.
-
-Technologies Used
-
-Database: MySQL
-
-SQL Features: DDL, DML, Joins, Grouping, Subqueries, Stored Procedures
-
-How to Run
-
-Install MySQL Server on your system.
-
-Import the motor_insurance_policy.sql file to create database schema.
-
-SOURCE motor_insurance_policy.sql;
-
-
-Run queries from my_project_sql_query.sql for analysis.
-
-Example Queries
-
-Find highest premium paid.
-
-Count active policies.
-
-List vehicle models insured.
-
-📌 Author
-
-👤 Rajeshwaran
